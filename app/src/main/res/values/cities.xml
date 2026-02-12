@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sehirler">
+        <!-- Türkiye -->
+        <item>Istanbul</item>
+        <item>Ankara</item>
+        <item>Izmir</item>
+        <item>Antalya</item>
+        <item>Bursa</item>
+        <item>Adana</item>
+        <item>Gaziantep</item>
+        <item>Konya</item>
+        <item>Mersin</item>
+        <item>Diyarbakir</item>
+        <item>Kayseri</item>
+        <item>Eskisehir</item>
+        <item>Samsun</item>
+        <item>Trabzon</item>
+        <item>Denizli</item>
+        <item>Malatya</item>
+        <item>Erzurum</item>
+        <item>Van</item>
+        <item>Bodrum</item>
+        <item>Kusadasi</item>
+        <item>Marmaris</item>
+        <item>Fethiye</item>
+        <item>Alanya</item>
+        <item>Cesme</item>
+
+        <!-- İngiltere -->
+        <item>London</item>
+        <item>Manchester</item>
+        <item>Birmingham</item>
+        <item>Liverpool</item>
+        <item>Leeds</item>
+        <item>Glasgow</item>
+        <item>Edinburgh</item>
+        <item>Bristol</item>
+        <item>Cardiff</item>
+        <item>Belfast</item>
+        <item>Oxford</item>
+        <item>Cambridge</item>
+
+        <!-- Fransa -->
+        <item>Paris</item>
+        <item>Marseille</item>
+        <item>Lyon</item>
+        <item>Toulouse</item>
+        <item>Nice</item>
+        <item>Bordeaux</item>
+        <item>Strasbourg</item>
+        <item>Lille</item>
+        <item>Nantes</item>
+        <item>Montpellier</item>
+
+        <!-- Almanya -->
+        <item>Berlin</item>
+        <item>Munich</item>
+        <item>Hamburg</item>
+        <item>Frankfurt</item>
+        <item>Cologne</item>
+        <item>Dusseldorf</item>
+        <item>Stuttgart</item>
+        <item>Dresden</item>
+        <item>Leipzig</item>
+        <item>Hannover</item>
+        <item>Nuremberg</item>
+        <item>Bremen</item>
+
+        <!-- İtalya -->
+        <item>Rome</item>
+        <item>Milan</item>
+        <item>Naples</item>
+        <item>Turin</item>
+        <item>Florence</item>
+        <item>Venice</item>
+        <item>Bologna</item>
+        <item>Genoa</item>
+        <item>Palermo</item>
+        <item>Verona</item>
+        <item>Pisa</item>
+
+        <!-- İspanya -->
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Valencia</item>
+        <item>Seville</item>
+        <item>Bilbao</item>
+        <item>Malaga</item>
+        <item>Granada</item>
+        <item>Alicante</item>
+        <item>Ibiza</item>
+        <item>Majorca</item>
+
+        <!-- Portekiz -->
+        <item>Lisbon</item>
+        <item>Porto</item>
+        <item>Faro</item>
+
+        <!-- Hollanda -->
+        <item>Amsterdam</item>
+        <item>Rotterdam</item>
+        <item>The Hague</item>
+        <item>Utrecht</item>
+        <item>Eindhoven</item>
+
+        <!-- Belçika -->
+        <item>Brussels</item>
+        <item>Antwerp</item>
+        <item>Bruges</item>
+        <item>Ghent</item>
+
+        <!-- Avusturya -->
+        <item>Vienna</item>
+        <item>Salzburg</item>
+        <item>Innsbruck</item>
+        <item>Graz</item>
+
+        <!-- İsviçre -->
+        <item>Zurich</item>
+        <item>Geneva</item>
+        <item>Basel</item>
+        <item>Bern</item>
+        <item>Lucerne</item>
+
+        <!-- Çekya -->
+        <item>Prague</item>
+        <item>Brno</item>
+
+        <!-- Polonya -->
+        <item>Warsaw</item>
+        <item>Krakow</item>
+        <item>Gdansk</item>
+        <item>Wroclaw</item>
+        <item>Poznan</item>
+
+        <!-- Macaristan -->
+        <item>Budapest</item>
+        <item>Debrecen</item>
+
+        <!-- Yunanistan -->
+        <item>Athens</item>
+        <item>Thessaloniki</item>
+        <item>Santorini</item>
+        <item>Mykonos</item>
+        <item>Rhodes</item>
+        <item>Crete</item>
+
+        <!-- Rusya -->
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Kazan</item>
+        <item>Sochi</item>
+
+        <!-- İskandinav -->
+        <item>Stockholm</item>
+        <item>Gothenburg</item>
+        <item>Copenhagen</item>
+        <item>Oslo</item>
+        <item>Bergen</item>
+        <item>Helsinki</item>
+        <item>Reykjavik</item>
+
+        <!-- ABD -->
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Phoenix</item>
+        <item>Philadelphia</item>
+        <item>San Antonio</item>
+        <item>San Diego</item>
+        <item>Dallas</item>
+        <item>San Jose</item>
+        <item>Austin</item>
+        <item>San Francisco</item>
+        <item>Seattle</item>
+        <item>Denver</item>
+        <item>Boston</item>
+        <item>Miami</item>
+        <item>Atlanta</item>
+        <item>Las Vegas</item>
+        <item>Portland</item>
+        <item>Detroit</item>
+        <item>Minneapolis</item>
+        <item>New Orleans</item>
+        <item>Orlando</item>
+        <item>Honolulu</item>
+        <item>Washington</item>
+
+        <!-- Kanada -->
+        <item>Toronto</item>
+        <item>Montreal</item>
+        <item>Vancouver</item>
+        <item>Calgary</item>
+        <item>Ottawa</item>
+        <item>Edmonton</item>
+        <item>Quebec City</item>
+
+        <!-- Meksika -->
+        <item>Mexico City</item>
+        <item>Cancun</item>
+        <item>Guadalajara</item>
+        <item>Monterrey</item>
+
+        <!-- Brezilya -->
+        <item>Sao Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Brasilia</item>
+        <item>Salvador</item>
+        <item>Fortaleza</item>
+
+        <!-- Arjantin -->
+        <item>Buenos Aires</item>
+        <item>Cordoba</item>
+        <item>Mendoza</item>
+
+        <!-- Şili -->
+        <item>Santiago</item>
+
+        <!-- Kolombiya -->
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cartagena</item>
+
+        <!-- Peru -->
+        <item>Lima</item>
+        <item>Cusco</item>
+
+        <!-- Japonya -->
+        <item>Tokyo</item>
+        <item>Osaka</item>
+        <item>Kyoto</item>
+        <item>Yokohama</item>
+        <item>Nagoya</item>
+        <item>Sapporo</item>
+        <item>Fukuoka</item>
+        <item>Hiroshima</item>
+        <item>Nara</item>
+
+        <!-- Çin -->
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Guangzhou</item>
+        <item>Shenzhen</item>
+        <item>Chengdu</item>
+        <item>Hangzhou</item>
+        <item>Xian</item>
+        <item>Nanjing</item>
+        <item>Chongqing</item>
+        <item>Hong Kong</item>
+        <item>Macau</item>
+
+        <!-- Güney Kore -->
+        <item>Seoul</item>
+        <item>Busan</item>
+        <item>Incheon</item>
+        <item>Jeju</item>
+
+        <!-- Tayvan -->
+        <item>Taipei</item>
+        <item>Kaohsiung</item>
+
+        <!-- Tayland -->
+        <item>Bangkok</item>
+        <item>Phuket</item>
+        <item>Chiang Mai</item>
+        <item>Pattaya</item>
+
+        <!-- Vietnam -->
+        <item>Ho Chi Minh City</item>
+        <item>Hanoi</item>
+        <item>Da Nang</item>
+
+        <!-- Singapur & Malezya -->
+        <item>Singapore</item>
+        <item>Kuala Lumpur</item>
+        <item>Penang</item>
+
+        <!-- Endonezya -->
+        <item>Jakarta</item>
+        <item>Bali</item>
+        <item>Surabaya</item>
+
+        <!-- Filipinler -->
+        <item>Manila</item>
+        <item>Cebu</item>
+
+        <!-- Hindistan -->
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Bangalore</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Hyderabad</item>
+        <item>Jaipur</item>
+        <item>Goa</item>
+        <item>Agra</item>
+
+        <!-- Pakistan -->
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+
+        <!-- BAE & Körfez -->
+        <item>Dubai</item>
+        <item>Abu Dhabi</item>
+        <item>Doha</item>
+        <item>Kuwait City</item>
+        <item>Riyadh</item>
+        <item>Jeddah</item>
+        <item>Muscat</item>
+        <item>Bahrain</item>
+
+        <!-- İsrail & Filistin -->
+        <item>Tel Aviv</item>
+        <item>Jerusalem</item>
+        <item>Haifa</item>
+
+        <!-- Mısır -->
+        <item>Cairo</item>
+        <item>Alexandria</item>
+        <item>Luxor</item>
+        <item>Sharm El Sheikh</item>
+        <item>Hurghada</item>
+
+        <!-- Fas -->
+        <item>Marrakech</item>
+        <item>Casablanca</item>
+        <item>Fez</item>
+        <item>Tangier</item>
+
+        <!-- Tunus -->
+        <item>Tunis</item>
+
+        <!-- Güney Afrika -->
+        <item>Cape Town</item>
+        <item>Johannesburg</item>
+        <item>Durban</item>
+
+        <!-- Kenya -->
+        <item>Nairobi</item>
+        <item>Mombasa</item>
+
+        <!-- Avustralya -->
+        <item>Sydney</item>
+        <item>Melbourne</item>
+        <item>Brisbane</item>
+        <item>Perth</item>
+        <item>Adelaide</item>
+        <item>Gold Coast</item>
+        <item>Cairns</item>
+
+        <!-- Yeni Zelanda -->
+        <item>Auckland</item>
+        <item>Wellington</item>
+        <item>Queenstown</item>
+        <item>Christchurch</item>
+
+        <!-- Fiji -->
+        <item>Suva</item>
+    </string-array>
+</resources>
