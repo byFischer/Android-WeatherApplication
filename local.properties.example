@@ -1,0 +1,9 @@
+# API anahtarını buraya ekleyin.
+# Bu dosyayı kopyalayarak 'local.properties' adıyla kaydedin.
+# local.properties dosyası .gitignore tarafından hariç tutulduğu için
+# asla Git geçmişine girmez.
+#
+# OpenWeatherMap API anahtarınızı almak için:
+# https://home.openweathermap.org/api_keys
+
+WEATHER_API_KEY=your_openweathermap_api_key_here

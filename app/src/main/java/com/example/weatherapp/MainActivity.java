@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
             handler.post(noktaAnimasyonu);
             new Thread(() -> {
                 try {
-                    String apiKey = "d6636b5c504e30c069c058866b6bdcd2";
+                    String apiKey = BuildConfig.WEATHER_API_KEY;
                     String urlString =
                             "https://api.openweathermap.org/data/2.5/weather?q="
                                     + city +
